@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main() {
+
+    int number;
+
+    std::cout << "Write the chosen number here: " << std::endl;
+    std::cin >> number;
+    if (number % 2 == 0) {
+        std::cout << "Your number is even!" << std::endl;
+    }else {
+        std::cout << "Your number is odd!" << std::endl;
+    }
+    return 0;
+}
