@@ -1,0 +1,3 @@
+C:/Users/Anti/jatszoter/Anti117/week-05/day-3/ZOO/cmake-build-debug/CMakeFiles/ZOO.dir
+C:/Users/Anti/jatszoter/Anti117/week-05/day-3/ZOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anti/jatszoter/Anti117/week-05/day-3/ZOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
